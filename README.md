@@ -5,7 +5,10 @@ A neural network written in Python, consisting of a single neuron that uses back
 1. numpy
 
 ### Tutorial:
-https://www.youtube.com/watch?v=p69khggr1Jo
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=p69khggr1Jo
+" target="_blank"><img src="http://img.youtube.com/vi/p69khggr1Jo/2.jpg"
+alt="" width="480" height="360" border="10" /></a>
+
 https://github.com/llSourcell/Make_a_neural_network
 
 ### Challenge:
