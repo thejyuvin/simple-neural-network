@@ -13,3 +13,8 @@ Extend on the single layer feedforward neural network to create a 3 layer feedfo
 
 ### Goals:
 By doing this, you'll understand exactly how backpropagation works and develop an intuitive understanding of neural networks, which will be useful for more the more complex nets we build in the future. Backpropagation usually involves recursively taking derivatives, but in our 1 layer demo there was no recursion so was a trivial case of backpropagation. In this challenge, there will be. Use a small binary dataset, you can define one programmatically like in this example.
+
+
+### Misc
+!['Sigmoid / Derivative](http://whiteboard.ping.se/uploads/MachineLearning/sigmoid700.png)
+
